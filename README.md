@@ -22,3 +22,5 @@ Sample Predicted App Outputs;
 --------------------------------
 
 <img width="581" height="581" alt="Online_Sales_Revenue App outputs-Streamlit" src="https://github.com/user-attachments/assets/79191cc7-1c67-42f6-b194-552486c23c64" />
+
+<img width="630" height="595" alt="Online_Sales_KPI App outputs-Streamlit" src="https://github.com/user-attachments/assets/736b75b7-d4d6-4344-bcc9-29eeb0e9e34c" />

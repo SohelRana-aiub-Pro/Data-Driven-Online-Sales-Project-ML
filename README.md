@@ -1,5 +1,5 @@
-Data-Driven-AI-Online-Sales-Project-ML
--------------------------------------
+Data Driven Online Sales Project using SQL & Python Programming Language
+-------------------------------------------------------------------------
 
 The Online Sales Products Project is a full-stack data analytics and machine learning solution
 designed to simulate, analyze, and visualize synthetic sales data. It integrates SQL databases, KPI

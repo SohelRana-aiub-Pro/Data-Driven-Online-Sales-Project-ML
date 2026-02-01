@@ -7,7 +7,7 @@ dashboards, machine learning models, and modern deployment frameworks to demonst
 digital commerce can be enhanced with data-driven insights.
 
 
-For Implement in Local Server/PC , follow the code structure & Requirements Commands'
+For Implement in Local Server/PC , follow the 'Project code structure & Requirements Commands'
 ------------------------------------------------------------------------------------
 
 
